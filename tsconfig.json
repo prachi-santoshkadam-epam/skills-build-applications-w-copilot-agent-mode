@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./octofit-tracker/frontend/tsconfig.json" },
+    { "path": "./octofit-tracker/backend/tsconfig.json" }
+  ]
+}
